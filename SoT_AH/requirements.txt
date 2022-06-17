@@ -1,0 +1,5 @@
+3.7.9
+psutil
+pyglet
+pywin32
+VScode
